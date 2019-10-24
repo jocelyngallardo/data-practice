@@ -24,4 +24,4 @@ else:
     print('does not have a 6th')
     
 classData=[naomiDict, joyDict, karleighDict]
-print(classData[2])
+print(classData[2]['height'])
